@@ -19,7 +19,7 @@ int _myenv(info_t *info)
  *
  * Return: the value
  */
-Return: the value
+Return:the value
 {
 	list_t *node = info->env;
 	char *p;
